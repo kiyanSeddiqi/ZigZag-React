@@ -1,0 +1,2448 @@
+{
+  "users": [
+    {
+      "name": "kiyan",
+      "email": "kiyanseddighi@gmail.com",
+      "password": "kiyan1991",
+      "avatar": "",
+      "phone": "",
+      "address": "",
+      "role": "user",
+      "created_at": "2026-06-11T06:04:52.970Z",
+      "id": "vAZki3qc4VA"
+    }
+  ],
+  "products": [
+    {
+      "id": "2101",
+      "title": "پیراهن آستین بلند یقه برگردان مردانه ایزی دو مدل 1007 ",
+      "description": "پارچه استفاده شده در این پیراهن کیفیت خوبی دارد و رنگ بندی‌ها مطابق تصاویر است، که باعث رضایت از ظاهر محصول می‌شود. پیراهن آستین بلند یقه برگردان مردانه دارای طراحی شیک و قابل قبول است که از نظر ظاهری رضایت‌بخش است و تنوع رنگ قابل‌توجهی دارد.  ",
+      "images": [
+        "men-1",
+        "men-1_1",
+        "men-1_2",
+        "men-1_3"
+      ],
+      "price": 2098000,
+      "discount": 30,
+      "tags": [
+        "sale"
+      ],
+      "category": "men",
+      "brand": "ایزی دو",
+      "colors": [
+        {
+          "title": "آجری",
+          "clr_code": "bg-[#B22222]",
+          "group": "red"
+        },
+        {
+          "title": "مشکی",
+          "clr_code": "bg-black",
+          "group": "black"
+        },
+        {
+          "title": "طوسی",
+          "clr_code": "bg-stone-400",
+          "group": "gray"
+        }
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "rating": 4,
+      "created_at": "2024-01-15T11:20:00Z",
+      "is_orginal": true,
+      "stock": 3,
+      "free_shipping": true
+    },
+    {
+      "id": "2102",
+      "title": "تی‌شرت آستین کوتاه مردانه کراس مدل FTF نخ پنبه",
+      "description": "تیشرت از جنس نخ پنبه و بسیار سبک و خنک می‌باشد، میزان تعریق در آن بسیار کم و راحت و لطیف بوده، حتی در هنگام تعریق بوی بسیار بد نمیگیرد و به راحتی شسته میشود.",
+      "images": [
+        "men-2",
+        "men-2_1",
+        "men-2_2",
+        "men-2_3"
+      ],
+      "price": 1585000,
+      "discount": 20,
+      "tags": [
+        "new"
+      ],
+      "category": "men",
+      "brand": "کراس",
+      "colors": [
+        {
+          "title": "مشکی ",
+          "clr_code": "bg-black",
+          "group": "black"
+        },
+        {
+          "title": "سفید",
+          "clr_code": "bg-white",
+          "group": "white"
+        }
+      ],
+      "sizes": [
+        "XL",
+        "3XL"
+      ],
+      "rating": 3.5,
+      "created_at": "2026-03-15T11:20:00Z",
+      "is_orginal": true,
+      "stock": 4,
+      "free_shipping": false
+    },
+    {
+      "id": "2103",
+      "title": "پلیور یقه هفت مردانه تریکو پاییزان مدل P700",
+      "description": " جنس این پلیور مردانه آکریلیک است و در فضای باز می‌توانید آن را به‌همراه کاپشن و در فضای بسته بدون کاپشن بپوشید. طراحی این بافت به‌نحوی بوده که به‌خوبی بر تن فرد می‌نشیند.",
+      "images": [
+        "men-3",
+        "men-3_1",
+        "men-3_2",
+        "men-3_3",
+        "men-3_4"
+      ],
+      "price": 1100000,
+      "discount": 27,
+      "tags": [
+        "bestseller"
+      ],
+      "category": "men",
+      "brand": "پاییزان",
+      "colors": [
+        {
+          "title": "سبز تیره ",
+          "clr_code": "bg-emerald-700",
+          "group": "green"
+        },
+        {
+          "title": "زرشکی",
+          "clr_code": "bg-red-800",
+          "group": "red"
+        },
+        {
+          "title": "آبی نفتی",
+          "clr_code": "bg-[#325d88]",
+          "group": "blue"
+        },
+        {
+          "title": "خردلی",
+          "clr_code": "bg-[#d4a017]",
+          "group": "yellow"
+        }
+      ],
+      "sizes": [
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "rating": 4.2,
+      "created_at": "2026-01-16T11:20:00Z",
+      "is_orginal": true,
+      "stock": 10,
+      "free_shipping": true
+    },
+    {
+      "id": "2104",
+      "title": "کاپشن مردانه مدل شیلد",
+      "description": " این محصول با بهره‌گیری از آستر داخلی خزدار و مخملیِ ضخیم، گرمای فوق‌العاده‌ای را در خود حبس کرده و به لطف رویه‌ی کاملاً ضدآب، همچون سدی در برابر برف و باران عمل می‌کند.طراحی مهندسی‌ساز و دوخت‌های صنعتی بسیار ظریف و تمیز، استایلی شیک و بدنی را به ارمغان آورده است که با قابلیت جدا شدن کلاه توسط یک زیپ مخفی و هوشمندانه، انعطاف‌پذیری بالایی به ظاهر شما می‌بخشد.",
+      "images": [
+        "men-4",
+        "men-4_1",
+        "men-4_2",
+        "men-4_3",
+        "men-4_4"
+      ],
+      "price": 7500000,
+      "discount": 13,
+      "tags": [
+        "bestseller"
+      ],
+      "category": "men",
+      "brand": "متفرقه",
+      "colors": [
+        {
+          "title": "قرمز ",
+          "clr_code": "bg-red-600",
+          "group": "red"
+        },
+        {
+          "title": "خردلی",
+          "clr_code": "bg-[#d4a017]",
+          "group": "yellow"
+        }
+      ],
+      "sizes": [
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "rating": 4.6,
+      "created_at": "2026-01-14T11:20:00Z",
+      "is_orginal": true,
+      "stock": 3,
+      "free_shipping": false,
+      "isFeatured": true
+    },
+    {
+      "id": "2105",
+      "title": "کت چرم مردانه چرم مشهد مدل K0608-001",
+      "description": " با رویه چرم طبیعی گوسفندی بسیار لطیف، ظاهر زیبایی به استایل شما می بخشد. داخل این کت، آستر کشی شده تا حس بهتری از پوشیدن آن داشته باشید.",
+      "images": [
+        "men-5",
+        "men-5_1",
+        "men-5_2",
+        "men-5_3"
+      ],
+      "price": 43900000,
+      "discount": 50,
+      "tags": [
+        "new"
+      ],
+      "category": "men",
+      "brand": "چرم مشهد",
+      "colors": [
+        {
+          "title": "قهوه ای روشن ",
+          "clr_code": "bg-amber-700",
+          "group": "brown"
+        },
+        {
+          "title": "یشمی",
+          "clr_code": "bg-lime-800",
+          "group": "green"
+        },
+        {
+          "title": "مشکی",
+          "clr_code": "bg-black",
+          "group": "black"
+        }
+      ],
+      "sizes": [
+        "48",
+        "50",
+        "52",
+        "54"
+      ],
+      "rating": 4.2,
+      "created_at": "2026-03-16T11:20:00Z",
+      "is_orginal": true,
+      "stock": 10,
+      "free_shipping": true
+    },
+    {
+      "id": "2106",
+      "title": "هودی مردانه ترندیول مدل A21",
+      "description": " هودی مردانه، انتخابی راحت و استایل‌دار برای روزهای خنک. مناسب برای استایل اسپرت یا روزمره، با جنس نرم و طراحی مدرن و جنس پنبه پلی استر.",
+      "images": [
+        "men-6",
+        "men-6_1",
+        "men-6_2",
+        "men-6_3"
+      ],
+      "price": 1248000,
+      "discount": 40,
+      "tags": [
+        "sale"
+      ],
+      "category": "men",
+      "brand": "ترندیول",
+      "colors": [
+        {
+          "title": "کرم ",
+          "clr_code": "bg-[#f5e8d8]",
+          "group": "white"
+        },
+        {
+          "title": "آبی فیروزه ای",
+          "clr_code": "bg-[#40dfd0]",
+          "group": "blue"
+        },
+        {
+          "title": "ذغالی",
+          "clr_code": "bg-stone-700",
+          "group": "black"
+        }
+      ],
+      "sizes": [
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "rating": 4.6,
+      "created_at": "2026-01-13T11:20:00Z",
+      "is_orginal": true,
+      "stock": 10,
+      "free_shipping": true
+    },
+    {
+      "id": "2107",
+      "title": "تی‌شرت اورسایز آستین کوتاه مردانه کراس مدل نخ پنبه ماکان",
+      "description": "  این تیشرت با طراحی خاص و منحصر به فرد خود که با استفاده از چاپ گلدوزی 'کراس' بر روی قسمت راست سینه بصورت مینیمال، توانسته توجه بسیاری را به خود جلب کند.",
+      "images": [
+        "men-7",
+        "men-7_1",
+        "men-7_2",
+        "men-7_3"
+      ],
+      "price": 2200000,
+      "discount": 23,
+      "tags": [
+        "most_visited"
+      ],
+      "category": "men",
+      "brand": "کراس",
+      "colors": [
+        {
+          "title": "سبز",
+          "clr_code": "bg-emerald-600",
+          "group": "green"
+        },
+        {
+          "title": "مشکی",
+          "clr_code": "bg-black",
+          "group": "black"
+        },
+        {
+          "title": "سفید",
+          "clr_code": "bg-white",
+          "group": "white"
+        },
+        {
+          "title": "نسکافه ای",
+          "clr_code": "bg-[#c7a17a]",
+          "group": "brown"
+        }
+      ],
+      "sizes": [
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "rating": 4.5,
+      "created_at": "2026-01-12T11:20:00Z",
+      "is_orginal": false,
+      "stock": 2,
+      "free_shipping": false
+    },
+    {
+      "id": "2108",
+      "title": "کاپشن زنانه السانا مدل فریهام",
+      "description": "کاپشن زیپ دار از جنس پلی استر دارای دو جیب مناسب هوای پاییزی در رنگ های مختلف.",
+      "images": [
+        "women-1",
+        "women-1_1",
+        "women-1_2",
+        "women-1_3"
+      ],
+      "price": 5248000,
+      "discount": 30,
+      "tags": [
+        "bestseller"
+      ],
+      "category": "women",
+      "brand": "السانا",
+      "colors": [
+        {
+          "title": "سبز",
+          "clr_code": "bg-emerald-600",
+          "group": "green"
+        },
+        {
+          "title": "مشکی",
+          "clr_code": "bg-black",
+          "group": "black"
+        },
+        {
+          "title": "کرم",
+          "clr_code": "bg-[#f5e8d8]",
+          "group": "white"
+        },
+        {
+          "title": "آبی آسمانی",
+          "clr_code": "bg-sky-300",
+          "group": "blue"
+        }
+      ],
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "rating": 4,
+      "created_at": "2026-01-11T11:20:00Z",
+      "is_orginal": false,
+      "stock": 10,
+      "free_shipping": true
+    },
+    {
+      "id": "2109",
+      "title": "کاپشن بلند زنانه السانا مدل راشن",
+      "description": "کاپشن بلند السانا دکمه دار با رویه داخلی خزدار فوق العاده گرم و نفوذ ناپذیر دربرابر باران و برف. مناسب بانوان شیک پوش که می خواهند استایل متفاوتی داشته باشند. این کاپشن رنگ بندی متنوع و کیفیت بی نظیری داشته که باعث جلب رضایت اکثر مشتریان شده است.",
+      "images": [
+        "women-2",
+        "women-2_1",
+        "women-2_2",
+        "women-2_3",
+        "women-2_4"
+      ],
+      "price": 2700000,
+      "discount": 13,
+      "tags": [
+        "sale"
+      ],
+      "category": "women",
+      "brand": "السانا",
+      "colors": [
+        {
+          "title": "مشکی",
+          "clr_code": "bg-black",
+          "group": "black"
+        },
+        {
+          "title": "طوسی",
+          "clr_code": "bg-stone-400",
+          "group": "gray"
+        },
+        {
+          "title": "یاسی",
+          "clr_code": "bg-[#cfa2ff]",
+          "group": "purple"
+        },
+        {
+          "title": "سرمه ای",
+          "clr_code": "bg-blue-950",
+          "group": "blue"
+        }
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "rating": 4.5,
+      "created_at": "2026-03-27T11:20:00Z",
+      "is_orginal": true,
+      "stock": 10,
+      "free_shipping": true
+    },
+    {
+      "id": "2110",
+      "title": "پالتو زنانه السانا مدل کایان ",
+      "description": "جنس فوتر  با مدل یقه انگلیسی و جلو باز  که برای استفاده روزمره طراحی شده با آستین بلند و جنس آستر پلی استر می باشد.",
+      "images": [
+        "women-3",
+        "women-3_1",
+        "women-3_2",
+        "women-3_3"
+      ],
+      "price": 3647000,
+      "discount": 5,
+      "tags": [
+        "sale"
+      ],
+      "category": "women",
+      "brand": "السانا",
+      "colors": [
+        {
+          "title": "مشکی",
+          "clr_code": "bg-black",
+          "group": "black"
+        },
+        {
+          "title": "شیری",
+          "clr_code": "bg-[#faf3e0]",
+          "group": "white"
+        },
+        {
+          "title": "طلایی",
+          "clr_code": "bg-[#d4af38]",
+          "group": "yellow"
+        },
+        {
+          "title": "نسکافه ای",
+          "clr_code": "bg-[#c7a17a]",
+          "group": "brown"
+        }
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "rating": 4.8,
+      "created_at": "2026-01-17T11:20:00Z",
+      "is_orginal": true,
+      "stock": 1,
+      "free_shipping": false
+    },
+    {
+      "id": "2111",
+      "title": "شلوار نیم‌بگ زنانه گره استایل مدل آپاچی ",
+      "description": "شلوار زنانه نیم بگ مدل G69 از جنس مازراتی بسیار زیبا و شیک ، ضد حساسیت و آنتی باکتریال بصورت نیم بگ دوخته شده که برای تمام فصول سال و همچنین برای استفاده اسپرت ،روزمره ، مهمانی ، بسیار شیک و راحت و مناسب است.",
+      "images": [
+        "women-4",
+        "women-4_1",
+        "women-4_2",
+        "women-4_3"
+      ],
+      "price": 990000,
+      "discount": 20,
+      "tags": [
+        "new"
+      ],
+      "category": "women",
+      "brand": "مانگو",
+      "colors": [
+        {
+          "title": "بژ",
+          "clr_code": "bg-[#e6dab3]",
+          "group": "yellow"
+        },
+        {
+          "title": "قهوه ای روشن",
+          "clr_code": "bg-amber-700",
+          "group": "brown"
+        }
+      ],
+      "sizes": [
+        "42",
+        "46",
+        "50"
+      ],
+      "rating": 3.9,
+      "created_at": "2026-03-10T11:20:00Z",
+      "is_orginal": false,
+      "stock": 10,
+      "free_shipping": true
+    },
+    {
+      "id": "2112",
+      "title": "سویشرت زنانه مدل دورس",
+      "description": "این لباس با طراحی مدرن و دوخت ظریف، ظاهری جذاب و زنانه ایجاد می‌کند. جنس پارچه نرم و سبک آن، احساس راحتی در طول روز را تضمین می کند .",
+      "images": [
+        "women-6",
+        "women-6_1",
+        "women-6_2",
+        "women-6_3",
+        "women-6_4"
+      ],
+      "price": 698000,
+      "discount": 14,
+      "tags": [
+        "most_visited"
+      ],
+      "category": "women",
+      "brand": "بای نت",
+      "colors": [
+        {
+          "title": "مشکی",
+          "clr_code": "bg-black",
+          "group": "black"
+        },
+        {
+          "title": "سبز تیره",
+          "clr_code": "bg-emerald-700",
+          "group": "green"
+        },
+        {
+          "title": "قهوه ای روشن",
+          "clr_code": "bg-amber-700",
+          "group": "brown"
+        }
+      ],
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "rating": 4.5,
+      "created_at": "2026-01-18T11:20:00Z",
+      "is_orginal": true,
+      "stock": 10,
+      "free_shipping": true
+    },
+    {
+      "id": "2113",
+      "title": "شلوار جین زنانه ایزی دو مدل 628",
+      "description": "شلوار جین با جنس خوب، برش مناسب و دوخت کیفیت دارد که باعث شده تن خور آن شیک و مطلوب باشد. اغلب کاربران از رنگ و استایل آن رضایت دارند و خرید آن ارزشمند توصیف شده است.",
+      "images": [
+        "women-5",
+        "women-5_1",
+        "women-5_2",
+        "women-5_3"
+      ],
+      "price": 2328000,
+      "discount": 30,
+      "tags": [
+        ""
+      ],
+      "category": "women",
+      "brand": "ایزی دو",
+      "colors": [
+        {
+          "title": "آبی نیلی",
+          "clr_code": "bg-[#386890]",
+          "group": "blue"
+        },
+        {
+          "title": "آبی تیره",
+          "clr_code": "bg-blue-800",
+          "group": "blue"
+        }
+      ],
+      "sizes": [
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "rating": 4.5,
+      "created_at": "2026-01-19T11:20:00Z",
+      "is_orginal": false,
+      "stock": 1,
+      "free_shipping": false
+    },
+    {
+      "id": "2114",
+      "title": "ست تی‌شرت آستین کوتاه و شلوار راحتی زنانه مدل استیج",
+      "description": " انتخابی ایده‌آل برای فصول بهار و تابستان است. این ست جذاب و راحت با طراحی مدرن و شیک از پارچه درجه یک و مرغوب تولید شده که هیچ گونه حساسیتی ایجاد نمیکند .",
+      "images": [
+        "women-7",
+        "women-7_1",
+        "women-7_2",
+        "women-7_3"
+      ],
+      "price": 1599000,
+      "discount": 10,
+      "tags": [
+        "new"
+      ],
+      "category": "women",
+      "brand": "مانگو",
+      "colors": [
+        {
+          "title": "مشکی",
+          "clr_code": "bg-black",
+          "group": "black"
+        },
+        {
+          "title": "قهوه ای",
+          "clr_code": "bg-amber-800",
+          "group": "brown"
+        }
+      ],
+      "sizes": [
+        "فری سایز"
+      ],
+      "rating": 4,
+      "created_at": "2026-03-19T11:20:00Z",
+      "is_orginal": false,
+      "stock": 10,
+      "free_shipping": true
+    },
+    {
+      "id": "2115",
+      "title": "ست سویشرت و شلوار راحتی بچگانه مدل Bahar",
+      "description": "ست سویشرت و شلوار طرح بهار با جنس پنبه دورس نرم و راحت و کشسانی خوب و با کیفیت با قواره تقریبا ازاد و استاندارد میباشد.",
+      "images": [
+        "kid-1",
+        "kid-1_1",
+        "kid-1_2",
+        "kid-1_3"
+      ],
+      "price": 1850000,
+      "discount": 25,
+      "tags": [
+        "most_visited"
+      ],
+      "category": "kids",
+      "brand": "آریان",
+      "colors": [
+        {
+          "title": "سبز کله غازی",
+          "clr_code": "bg-[#01443c]",
+          "group": "green"
+        },
+        {
+          "title": "آبی روشن",
+          "clr_code": "bg-sky-400",
+          "group": "blue"
+        },
+        {
+          "title": "قهوه ای",
+          "clr_code": "bg-amber-800",
+          "group": "brown"
+        }
+      ],
+      "sizes": [
+        "8 تا 10 سال",
+        "10 تا 12 سال"
+      ],
+      "rating": 3,
+      "created_at": "2026-01-20T11:20:00Z",
+      "is_orginal": false,
+      "stock": 1,
+      "free_shipping": false
+    },
+    {
+      "id": "2116",
+      "title": "ست سویشرت و شلوار راحتی دخترانه مدل بهاری",
+      "description": "ست سویشرت و شلوار راحتی مناسب برای فصلو بهار تابستان و پاییز از جنس پنبه ، آستین بلند با طرح عروسکی و مدل یقه گرد.",
+      "images": [
+        "kid-2",
+        "kid-2_1",
+        "kid-2_2",
+        "kid-2_3"
+      ],
+      "price": 1368000,
+      "discount": 35,
+      "tags": [
+        "new"
+      ],
+      "category": "kids",
+      "brand": "آریان",
+      "colors": [
+        {
+          "title": "نسکافه ای",
+          "clr_code": "bg-[#c7a17a]",
+          "group": "brown"
+        }
+      ],
+      "sizes": [
+        "5 تا 6 سال",
+        "6 تا 8 سال"
+      ],
+      "rating": 4.2,
+      "created_at": "2026-03-20T11:20:00Z",
+      "is_orginal": true,
+      "stock": 10,
+      "free_shipping": true
+    },
+    {
+      "id": "2117",
+      "title": "پیراهن بدون آستین یقه برگردان دخترانه",
+      "description": "این لباس دخترانه آستین حلقه فوق العاده جذاب و زیبا  از پارچه جین با کیفیت و دوخت آن بسیار تمیز و مزونی است.",
+      "images": [
+        "kid-3",
+        "kid-3_1",
+        "kid-3_2",
+        "kid-3_3"
+      ],
+      "price": 1449000,
+      "discount": 5,
+      "tags": [
+        "most_visited"
+      ],
+      "category": "kids",
+      "brand": "آریان",
+      "colors": [
+        {
+          "title": "آبی نیلی",
+          "clr_code": "bg-[#386890]",
+          "group": "blue"
+        },
+        {
+          "title": "آبی تیره",
+          "clr_code": "bg-blue-800",
+          "group": "blue"
+        }
+      ],
+      "sizes": [
+        "6 تا 9 سال"
+      ],
+      "rating": 2.5,
+      "created_at": "2026-01-22T11:20:00Z",
+      "is_orginal": false,
+      "stock": 1,
+      "free_shipping": false
+    },
+    {
+      "id": "2118",
+      "title": "ست کت و سارافون دخترانه",
+      "description": "این لباس از از دوتکه شامل پیراهن از جنس کتان تافته ورویه مخمل لطیف است ومناسب فصل بهار و تابستان است. مناسب گروه سنی 2 تا 9 سال است وبه دلیل استایل سبک وراحتی آن مناسب مهمانی و روزمره می باشد.",
+      "images": [
+        "kid-4",
+        "kid-4_1",
+        "kid-4_2",
+        "kid-4_3",
+        "kid-4_4"
+      ],
+      "price": 1680000,
+      "discount": 12,
+      "tags": [
+        "most_visited",
+        "sale"
+      ],
+      "category": "kids",
+      "brand": "متفرقه",
+      "colors": [
+        {
+          "title": "نسکافه ای",
+          "clr_code": "bg-[#c7a17a]",
+          "group": "brown"
+        },
+        {
+          "title": "سرمه ای",
+          "clr_code": "bg-blue-950",
+          "group": "blue"
+        }
+      ],
+      "sizes": [
+        "2 تا 3 سال",
+        "4 تا 5 سال",
+        "6 تا 7 سال"
+      ],
+      "rating": 4,
+      "created_at": "2026-01-09T11:20:00Z",
+      "is_orginal": false,
+      "stock": 6,
+      "free_shipping": true
+    },
+    {
+      "id": "2119",
+      "title": "هودی بچگانه جنس دورس ",
+      "description": "جنس مرغوب و نرم این پوشاک، راحتی بی‌نظیری را هنگام استفاده طولانی‌مدت تضمین می‌کند و آن را برای فعالیت‌های روزمره، بازی و تفریح مناسب می‌سازد. این هودی به راحتی با انواع شلوار جین، کتان و اسلش قابل ست شدن است.",
+      "images": [
+        "kid-5",
+        "kid-5_1",
+        "kid-5_2",
+        "kid-5_3"
+      ],
+      "price": 1200000,
+      "discount": 25,
+      "tags": [
+        "sale"
+      ],
+      "category": "kids",
+      "brand": "آریان",
+      "colors": [
+        {
+          "title": "نارنجی",
+          "clr_code": "bg-orange-600",
+          "group": "orange"
+        },
+        {
+          "title": "سبز کله غازی",
+          "clr_code": "bg-[#01443c]",
+          "group": "green"
+        },
+        {
+          "title": "سرمه ای",
+          "clr_code": "bg-blue-950",
+          "group": "blue"
+        }
+      ],
+      "sizes": [
+        "8 سال",
+        "9 سال",
+        "10 سال",
+        "12 سال"
+      ],
+      "rating": 4.7,
+      "created_at": "2026-01-08T11:20:00Z",
+      "is_orginal": true,
+      "stock": 10,
+      "free_shipping": true
+    },
+    {
+      "id": "2120",
+      "title": "ست سرهمی و کلاه نوزادی",
+      "description": "کلاه و سرهمی از جنس پنبه با آستین بلند و طرح زیبا پوشش مناسبی برای نوزاد شماست.",
+      "images": [
+        "kid-6",
+        "kid-6_1",
+        "kid-6_2",
+        "kid-6_3"
+      ],
+      "price": 1587000,
+      "discount": false,
+      "tags": [
+        ""
+      ],
+      "category": "kids",
+      "brand": "وان بای وان",
+      "colors": [
+        {
+          "title": "زرد",
+          "clr_code": "bg-yellow-500",
+          "group": "yellow"
+        }
+      ],
+      "sizes": [
+        "3 تا 6 ماه",
+        "6 تا 9 ماه",
+        "9 تا 12 ماه"
+      ],
+      "rating": 4.5,
+      "created_at": "2026-01-07T11:20:00Z",
+      "is_orginal": false,
+      "stock": 10,
+      "free_shipping": true
+    },
+    {
+      "id": "2121",
+      "title": "کاپشن دخترانه پوکو پیانو",
+      "description": "کاپشن دخترانه برند پوکو پیانو ، یک برند آلمانی است که در زمینه پوشاک کودکان فعالیت دارد و زیر مجموعه برند آلدی است. کاپشن دارای نوار طوسی منعکس کننده نور در شب است.",
+      "images": [
+        "kid-7",
+        "kid-7_1",
+        "kid-7_2",
+        "kid-7_3"
+      ],
+      "price": 1450000,
+      "discount": 5,
+      "tags": [
+        "new"
+      ],
+      "category": "kids",
+      "brand": "پوکو پیانو",
+      "colors": [
+        {
+          "title": "یاسی",
+          "clr_code": "bg-[#cfa2ff]",
+          "group": "purple"
+        },
+        {
+          "title": "مشکی",
+          "clr_code": "bg-black",
+          "group": "black"
+        }
+      ],
+      "sizes": [
+        "5 سال",
+        "6 سال",
+        "7 سال",
+        "8 سال"
+      ],
+      "rating": 4.1,
+      "created_at": "2026-03-23T11:20:00Z",
+      "is_orginal": true,
+      "stock": 1,
+      "free_shipping": false
+    },
+    {
+      "id": "2122",
+      "title": "ست پولوشرت آستین کوتاه و شلوارک پسرانه وان بای وان مدل پرهام",
+      "description": "جنس این پولوشرت از الیاف نخی و پنه بوده که مناسب فصل پاییز و بهار است. طراحی زیبا و رنگ بندی آن باعث شده استایل کودک شما در استفاده روزمره، اسپرت و حتی مهمانی زیبا به نظر برسد.",
+      "images": [
+        "kid-8",
+        "kid-8_1",
+        "kid-8_2",
+        "kid-8_3"
+      ],
+      "price": 1757000,
+      "discount": 10,
+      "tags": [
+        "sale"
+      ],
+      "category": "kids",
+      "brand": "وان بای وان",
+      "colors": [
+        {
+          "title": "آبی",
+          "clr_code": "bg-blue-500",
+          "group": "blue"
+        }
+      ],
+      "sizes": [
+        "3 تا 4 سال",
+        "4 تا 5 سال",
+        "5 تا 6 سال",
+        "6 تا 7 سال"
+      ],
+      "rating": 4.8,
+      "created_at": "2026-01-06T11:20:00Z",
+      "is_orginal": false,
+      "stock": 2,
+      "free_shipping": false
+    },
+    {
+      "id": "2123",
+      "title": "کفش مردانه مخصوص پیاده روی مدل رانینگ نیوبالانس",
+      "description": "این کفش ورزشی با طراحی مدرن و اسپرت، انتخابی مناسب برای استفاده روزمره و پیاده‌روی است. رویه پارچه‌ای مشبک، ظاهری شیک و امروزی به آن بخشیده و به گردش بهتر هوا در داخل کفش کمک می‌کند.",
+      "images": [
+        "shoes-1",
+        "shoes-1_1",
+        "shoes-1_2",
+        "shoes-1_3"
+      ],
+      "price": 1450000,
+      "discount": 10,
+      "tags": [
+        "sale"
+      ],
+      "category": "shoes",
+      "brand": "نیو بالانس",
+      "colors": [
+        {
+          "title": "مشکی",
+          "clr_code": "bg-black",
+          "group": "black"
+        },
+        {
+          "title": "طوسی",
+          "clr_code": "bg-stone-500",
+          "group": "gray"
+        }
+      ],
+      "sizes": [
+        41,
+        42,
+        43,
+        44
+      ],
+      "rating": 4.2,
+      "created_at": "2026-01-05T11:20:00Z",
+      "is_orginal": true,
+      "stock": 10,
+      "free_shipping": true
+    },
+    {
+      "id": "2124",
+      "title": "نیم بوت زنانه چرم مشهد مدل 2714",
+      "description": "طراحی ظریف و شیک برای مناسبت های رسمی و مجلسی ساخته شده از چرم طبیعی ضد سایش انتخابی ایده آل برای استایل های پاییزی و زمستانی ، دارای زیپ و پاشنه هشت سانتی متری از برند معروف چرم مشهد.",
+      "images": [
+        "shoes-2",
+        "shoes-2_1",
+        "shoes-2_2",
+        "shoes-2_3"
+      ],
+      "price": 17498000,
+      "discount": 25,
+      "tags": [
+        "most_visited"
+      ],
+      "category": "shoes",
+      "brand": "چرم مشهد",
+      "colors": [
+        {
+          "title": "مشکی",
+          "clr_code": "bg-black",
+          "group": "black"
+        },
+        {
+          "title": "قهوه ای",
+          "clr_code": "bg-amber-700",
+          "group": "brown"
+        }
+      ],
+      "sizes": [
+        36,
+        38,
+        39,
+        41
+      ],
+      "rating": 4,
+      "created_at": "2026-01-10T11:20:00Z",
+      "is_orginal": true,
+      "stock": 2,
+      "free_shipping": false
+    },
+    {
+      "id": "2125",
+      "title": "کفش راحتی زنانه آل استار مدل ساقدار",
+      "description": "جنس کفش پارچه کتان مرغوب 550 گرم با زیره نرم و با قابلیت ارتجاعی مناسب فعایت های روزمره مثل حضور در مدرسه یا دانشگاه و یا محل کار است. یک کار سبک و راحت که می توانید در هر کجا ازش استفاده کنید.",
+      "images": [
+        "shoes-3",
+        "shoes-3_1",
+        "shoes-3_2",
+        "shoes-3_3"
+      ],
+      "price": 1190000,
+      "discount": 20,
+      "tags": [
+        "sale"
+      ],
+      "category": "shoes",
+      "brand": "ال استار",
+      "colors": [
+        {
+          "title": "مشکی",
+          "clr_code": "bg-black",
+          "group": "black"
+        },
+        {
+          "title": "قرمز",
+          "clr_code": "bg-red-500",
+          "group": "red"
+        }
+      ],
+      "sizes": [
+        41,
+        42,
+        43,
+        44
+      ],
+      "rating": 4.6,
+      "created_at": "2026-01-03T11:20:00Z",
+      "is_orginal": false,
+      "stock": 2,
+      "free_shipping": false
+    },
+    {
+      "id": "2126",
+      "title": "کفش کوهنوردی لاوان مدل EDGE",
+      "description": "کفش کوهپیمایی لاوان مدل اج، برای طبیعت‌گردی طراحی شده است. این کفش با بهره‌گیری از طراحی کاربردی، متریال مقاوم و زیره‌ای چسبنده، انتخابی مناسب برای افرادی است که به دنبال راحتی و دوام در مسیرهای طبیعی هستند.",
+      "images": [
+        "shoes-4",
+        "shoes-4_1",
+        "shoes-4_2",
+        "shoes-4_3"
+      ],
+      "price": 11000000,
+      "discount": 10,
+      "tags": [
+        "bestseller"
+      ],
+      "category": "shoes",
+      "brand": "لاوان",
+      "colors": [
+        {
+          "title": "زیتونی",
+          "clr_code": "bg-[#808000]",
+          "group": "green"
+        }
+      ],
+      "sizes": [
+        38,
+        40,
+        43,
+        45
+      ],
+      "rating": 4.1,
+      "created_at": "2026-01-02T11:20:00Z",
+      "is_orginal": true,
+      "stock": 10,
+      "free_shipping": true
+    },
+    {
+      "id": "2127",
+      "title": "کفش مخصوص دویدن زنانه مدل رانینگ",
+      "description": "جنس رویه پارچه  و جنس زیره پلی اورتان که انعطاف پذیری زیادی ایجاد کرده و مناسب برای دویدن و پیاده روی روزانه است.",
+      "images": [
+        "shoes-5",
+        "shoes-5_1",
+        "shoes-5_2",
+        "shoes-5_3"
+      ],
+      "price": 3950000,
+      "discount": 5,
+      "tags": [
+        "new"
+      ],
+      "category": "shoes",
+      "brand": "متفرقه",
+      "colors": [
+        {
+          "title": "کرم قهوه ای",
+          "clr_code": "bg-linear-to-l from-[#f5e8d8] to-amber-800 from-50% to-50%",
+          "group": "brown"
+        },
+        {
+          "title": "سفید",
+          "clr_code": "bg-white",
+          "group": "white"
+        }
+      ],
+      "sizes": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "rating": 4.7,
+      "created_at": "2026-03-23T11:20:00Z",
+      "is_orginal": false,
+      "stock": 2,
+      "free_shipping": false
+    },
+    {
+      "id": "2128",
+      "title": "کفش راحتی دخترانه",
+      "description": " این کالا ، یکی از پر‌طرفدارترین مدل های کفش بچگانه است که با بهره‌گیری از زیره مقاوم در برابر سایش و نرمی خوبی که باعث فشارشکنی و راحتی می‌شود، رویه‌ این کفش دوام و کیفیت بالایی داشته و دارای پاخوری بسیار راحت است.",
+      "images": [
+        "shoes-6",
+        "shoes-6_1",
+        "shoes-6_2",
+        "shoes-6_3"
+      ],
+      "price": 1450000,
+      "discount": 10,
+      "tags": [
+        "new"
+      ],
+      "category": "shoes",
+      "brand": "متفرقه",
+      "colors": [
+        {
+          "title": "صورتی",
+          "clr_code": "bg-pink-300",
+          "group": "pink"
+        }
+      ],
+      "sizes": [
+        27,
+        28,
+        29
+      ],
+      "rating": 4.5,
+      "created_at": "2026-03-12T11:20:00Z",
+      "is_orginal": false,
+      "stock": 10,
+      "free_shipping": true
+    },
+    {
+      "id": "2129",
+      "title": "کفش بچگانه",
+      "description": " از ویژگی های تخصصی این کفش انعطاف بالا به همراه کاهش فشارهای وارده بخاطر جنس زیره پل یاورتان مناسب پیاده روی کودک شما.",
+      "images": [
+        "shoes-7",
+        "shoes-7_1",
+        "shoes-7_2",
+        "shoes-7_3"
+      ],
+      "price": 1100000,
+      "discount": 8,
+      "tags": [
+        ""
+      ],
+      "category": "shoes",
+      "brand": "متفرقه",
+      "colors": [
+        {
+          "title": "گل بهی",
+          "clr_code": "bg-red-300",
+          "group": "pink"
+        },
+        {
+          "title": "کرم قهوه ای",
+          "clr_code": "bg-[#f5e8d8]",
+          "group": "white"
+        },
+        {
+          "title": "آبی طوسی",
+          "clr_code": "bg-linear-to-l from-blue-400 to-stone-400 from-50% to-50%",
+          "group": "blue"
+        }
+      ],
+      "sizes": [
+        27,
+        28,
+        29
+      ],
+      "rating": 3.8,
+      "created_at": "2026-01-30T11:20:00Z",
+      "is_orginal": false,
+      "stock": 2,
+      "free_shipping": false
+    },
+    {
+      "id": "2130",
+      "title": "دستکش چرم مردانه چرم مشهد مدل M 811",
+      "description": " دستکش مدل رانندگی از چرم 100% طبیعی (گوسفندی ) تهیه شده است که در رانندگی ( موتورسواری ، دوچرخه سواری، اتومبیل رانی ) و برای انواع ورزش ها مورد استفاده قرار می گیرد .",
+      "images": [
+        "gloves-1",
+        "gloves-1_1",
+        "gloves-1_2",
+        "gloves-1_3"
+      ],
+      "price": 2200000,
+      "discount": 10,
+      "tags": [
+        ""
+      ],
+      "category": "gloves",
+      "brand": "چرم مشهد",
+      "colors": [
+        {
+          "title": "قهوه ای شتری",
+          "clr_code": "bg-amber-700",
+          "group": "brown"
+        },
+        {
+          "title": "مشکی",
+          "clr_code": "bg-black",
+          "group": "black"
+        },
+        {
+          "title": "قهوه ای تیره",
+          "clr_code": "bg-amber-950",
+          "group": "brown"
+        }
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "rating": 2.9,
+      "created_at": "2025-02-01T11:20:00Z",
+      "is_orginal": true,
+      "stock": 10,
+      "free_shipping": true
+    },
+    {
+      "id": "2131",
+      "title": "دستکش بافتنی مردانه",
+      "description": " دسنکش بافتنی مردانه Wellmerry با طراحی کلاسیک و رنگ خنثی، انتخابی ایده‌آل برای استفاده روزمره در فصل پاییز و زمستان است. از الیاف باکیفیت و نرم تولید شده که علاوه بر حفظ گرما، حس راحتی بالایی در دست ایجاد می‌کند.",
+      "images": [
+        "gloves-2",
+        "gloves-2_1",
+        "gloves-2_2"
+      ],
+      "price": 2300000,
+      "discount": 10,
+      "tags": [
+        ""
+      ],
+      "category": "gloves",
+      "brand": "متفرقه",
+      "colors": [
+        {
+          "title": "طوسی",
+          "clr_code": "bg-stone-400",
+          "group": "black"
+        },
+        {
+          "title": "مشکی",
+          "clr_code": "bg-black",
+          "group": "gray"
+        }
+      ],
+      "sizes": [
+        "فری سایز"
+      ],
+      "rating": 3.7,
+      "created_at": "2023-02-02T11:20:00Z",
+      "is_orginal": false,
+      "stock": 3,
+      "free_shipping": false
+    },
+    {
+      "id": "2132",
+      "title": "دستکش چرم زنانه",
+      "description": " دستکش های چرمی یکی از پرکاردبرترین اکسسوری های پوشیدنی برای خانم ها و آقایان است که علاوه بر گرم کردن دست ها ، نقش زیادی در زیبایی ما دارند. این دستکش از چرم صد درصد گوسفندی ساخته شده که بافتی کاملا نرم دارد .",
+      "images": [
+        "gloves-3",
+        "gloves-3_1",
+        "gloves-3_2"
+      ],
+      "price": 2200000,
+      "discount": 10,
+      "tags": [
+        "most_visited"
+      ],
+      "category": "gloves",
+      "brand": "چرم مشهد",
+      "colors": [
+        {
+          "title": "طوسی",
+          "clr_code": "bg-stone-400",
+          "group": "gray"
+        },
+        {
+          "title": "مشکی",
+          "clr_code": "bg-black",
+          "group": "black"
+        }
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "rating": 4.5,
+      "created_at": "2026-02-03T11:20:00Z",
+      "is_orginal": true,
+      "stock": 4,
+      "free_shipping": true
+    },
+    {
+      "id": "2133",
+      "title": "دستکش اسکی زنانه مت مدل Alp22",
+      "description": " دستکش‌های اسکی زنانه از برند اسپانیایی “مت” هستند. این دستکش‌ها ترکیبی از پارچه صورتی و چرم مشکی دارند که هم راحتی و هم دوام را فراهم می‌کند .",
+      "images": [
+        "gloves-4",
+        "gloves-4_1",
+        "gloves-4_2",
+        "gloves-4_3"
+      ],
+      "price": 9000000,
+      "discount": 15,
+      "tags": [
+        ""
+      ],
+      "category": "gloves",
+      "brand": "مت",
+      "colors": [
+        {
+          "title": "سرخابی",
+          "clr_code": "bg-pink-600",
+          "group": "red"
+        },
+        {
+          "title": "فسفری",
+          "clr_code": "bg-lime-300",
+          "group": "green"
+        }
+      ],
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "rating": 4.6,
+      "created_at": "2026-01-01T11:20:00Z",
+      "is_orginal": true,
+      "stock": 3,
+      "free_shipping": true
+    },
+    {
+      "id": "2134",
+      "title": "کوله پشتی کوهنوردی پکینیو مدل peak",
+      "description": " کوله‌ پشتی کوهنوردی 75 لیتری پکینیو یک انتخاب ایده‌آل برای کوهنوردی، طبیعت‌گردی و کمپینگ است که تمام ویژگی‌های مورد نیاز برای یک سفر طولانی و راحت را دارد .",
+      "images": [
+        "bag-1",
+        "bag-1_1",
+        "bag-1_2",
+        "bag-1_3"
+      ],
+      "price": 6950000,
+      "discount": 10,
+      "tags": [
+        "most_visited"
+      ],
+      "category": "bags",
+      "brand": "پکینیو",
+      "colors": [
+        {
+          "title": "قرمز",
+          "clr_code": "bg-red-600",
+          "group": "red"
+        },
+        {
+          "title": "آبی",
+          "clr_code": "bg-blue-500",
+          "group": "blue"
+        },
+        {
+          "title": "سبز آبی",
+          "clr_code": "bg-teal-600",
+          "group": "green"
+        },
+        {
+          "title": "زرد",
+          "clr_code": "bg-yellow-300",
+          "group": "yellow"
+        }
+      ],
+      "sizes": [
+        "75 لیتری",
+        "50 لیتری",
+        "36 لیتری"
+      ],
+      "rating": 4.8,
+      "created_at": "2026-01-02T11:20:00Z",
+      "is_orginal": true,
+      "stock": 3,
+      "free_shipping": false
+    },
+    {
+      "id": "2135",
+      "title": "کوله پشتی ورزشی آسیکس مدل m-1",
+      "description": " این کوله با وزن سبک 500 گرم، حمل آسانی را فراهم می‌کند و از الیاف مصنوعی باکیفیت ساخته شده که دوام و مقاومت بالایی در برابر استفاده مداوم دارد. طراحی دو بندی آن موجب توزیع مناسب وزن در هنگام استفاده می‌شود.",
+      "images": [
+        "bag-2",
+        "bag-2_1",
+        "bag-2_2",
+        "bag-2_3"
+      ],
+      "price": 248500,
+      "discount": 10,
+      "tags": [
+        "sale"
+      ],
+      "category": "bags",
+      "brand": "آسیکس",
+      "colors": [
+        {
+          "title": "مشکی",
+          "clr_code": "bg-black",
+          "group": "black"
+        },
+        {
+          "title": "قرمز",
+          "clr_code": "bg-red-600",
+          "group": "red"
+        },
+        {
+          "title": "آبی",
+          "clr_code": "bg-blue-600",
+          "group": "blue"
+        }
+      ],
+      "sizes": [
+        "50 لیتری"
+      ],
+      "rating": 4.3,
+      "created_at": "2026-01-03T11:20:00Z",
+      "is_orginal": false,
+      "stock": 10,
+      "free_shipping": true
+    },
+    {
+      "id": "2136",
+      "title": "کوله پشتی سفری ضدآب هیماواری",
+      "description": " کوله پشتی هیماواری مدل 124 از بهترین متریال ضد آب و سازگار با محیط زیست ساخته شده است. طراحی کلاسیک و مینیمال و رنگ‌بندی خاص، باعث تمایز این کیف شده است.",
+      "images": [
+        "bag-3",
+        "bag-3_1",
+        "bag-3_2",
+        "bag-3_3"
+      ],
+      "price": 3999000,
+      "discount": 15,
+      "tags": [
+        "bestseller"
+      ],
+      "category": "bags",
+      "brand": "هیماواری",
+      "colors": [
+        {
+          "title": "مشکی",
+          "clr_code": "bg-black",
+          "group": "black"
+        },
+        {
+          "title": "قرمز",
+          "clr_code": "bg-red-600",
+          "group": "red"
+        },
+        {
+          "title": "یشمی",
+          "clr_code": "bg-lime-800",
+          "group": "green"
+        },
+        {
+          "title": "کرم",
+          "clr_code": "bg-[#f5e8d8]",
+          "group": "white"
+        }
+      ],
+      "sizes": [
+        "50 لیتری"
+      ],
+      "rating": 4,
+      "created_at": "2025-12-27T11:20:00Z",
+      "is_orginal": false,
+      "stock": 10,
+      "free_shipping": true
+    },
+    {
+      "id": "2137",
+      "title": "پافر زنانه السانا مدل بهرانوش",
+      "description": "پافر بسیار گرم و نرم و لطیف آمیخته ای از 100 درصد پلی استر می باشد که هیچگونه حساسیتی ایجاد نمی کند .زیپ جلویی ، مانع نفوذ سرما شده و جیب بیرونی آن، فضایی مناسب برای نگهداری وسایل ضروری شماست.",
+      "images": [
+        "women-8",
+        "women-8_1",
+        "women-8_2",
+        "women-8_3"
+      ],
+      "price": 1798000,
+      "discount": 15,
+      "tags": [
+        "new",
+        "sale"
+      ],
+      "category": "women",
+      "brand": "السانا",
+      "colors": [
+        {
+          "title": "سبز",
+          "clr_code": "bg-green-600",
+          "group": "green"
+        },
+        {
+          "title": "مشکی",
+          "clr_code": "bg-black",
+          "group": "black"
+        },
+        {
+          "title": "طوسی تیره",
+          "clr_code": "bg-stone-700",
+          "group": "gray"
+        },
+        {
+          "title": "سرمه ای",
+          "clr_code": "bg-blue-950",
+          "group": "blue"
+        }
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "rating": 4.8,
+      "created_at": "2025-02-27T11:20:00Z",
+      "is_orginal": true,
+      "stock": 3,
+      "free_shipping": false
+    },
+    {
+      "id": "2138",
+      "title": "سویشرت مردانه باینت مدل دورس ساده",
+      "description": "انتخابی کاربردی برای آقایانی که به‌دنبال لباسی گرم، خوش‌فرم و مناسب استفاده روزمره یا تمرین در هوای خنک هستند. این دورس با طراحی ساده و اسپرت، به‌راحتی با شلوار اسلش یا شلوارک ورزشی ست می‌شود.",
+      "images": [
+        "men-8",
+        "men-8_1",
+        "men-8_2",
+        "men-8_3",
+        "men-8_4",
+        "men-8_5",
+        "men-8_6"
+      ],
+      "price": 1800000,
+      "discount": 45,
+      "tags": [
+        "most_visited"
+      ],
+      "category": "men",
+      "brand": "باینت",
+      "colors": [
+        {
+          "title": "آبی یخی",
+          "clr_code": "bg-sky-200",
+          "group": "blue"
+        },
+        {
+          "title": "آبی",
+          "clr_code": "bg-blue-600",
+          "group": "blue"
+        },
+        {
+          "title": "قهوه ای",
+          "clr_code": "bg-amber-800",
+          "group": "brown"
+        }
+      ],
+      "sizes": [
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "rating": 4.3,
+      "created_at": "2025-12-27T11:20:00Z",
+      "is_orginal": true,
+      "stock": 8,
+      "free_shipping": true
+    },
+    {
+      "id": "2139",
+      "title": "کوله پشتی حرفه ای مدل بالی ضد آب",
+      "description": " جنس پارچه این کوله‌پشتی از پلی‌استر باکیفیت و ضدآب ساخته شده است که دوام و مقاومت بالایی در برابر شرایط مختلف آب و هوایی دارد. ابعاد کوله ۲۰ × ۳۵۸ × ۵۸ سانتی‌متر بوده و حجم داخلی آن ۴۵ لیتر است که فضای کافی برای حمل تجهیزات و وسایل شخصی فراهم می‌کند.",
+      "images": [
+        "bag-4",
+        "bag-4_1",
+        "bag-4_2",
+        "bag-4_3",
+        "bag-4_4"
+      ],
+      "price": 2200000,
+      "discount": 5,
+      "tags": [
+        "new"
+      ],
+      "category": "bags",
+      "brand": "متفرقه",
+      "colors": [
+        {
+          "title": "مشکی",
+          "clr_code": "bg-black",
+          "group": "black"
+        },
+        {
+          "title": "زرد",
+          "clr_code": "bg-yellow-300",
+          "group": "yellow"
+        },
+        {
+          "title": "بنفش",
+          "clr_code": "bg-indigo-500",
+          "group": "purple"
+        },
+        {
+          "title": "سبز",
+          "clr_code": "bg-green-500",
+          "group": "green"
+        },
+        {
+          "title": "صورتی",
+          "clr_code": "bg-pink-300",
+          "group": "pink"
+        }
+      ],
+      "sizes": [
+        "45 لیتری"
+      ],
+      "rating": 4.2,
+      "created_at": "2026-02-29T11:20:00Z",
+      "is_orginal": true,
+      "stock": 2,
+      "free_shipping": false
+    },
+    {
+      "id": "2140",
+      "title": "کوله پشتی کوهنوردی 45 لیتری آلوا مدل A-129",
+      "description": " کوله‌پشتی تاکتیکی آلوا مدل A-129 با ظرفیت ۴۵ لیتر، یکی از انتخاب‌های حرفه‌ای و چندمنظوره برای افرادی است که به فعالیت‌های ماجراجویانه مانند طبیعت‌گردی، کمپینگ، کوهنوردی، شکار، سفرهای ماجراجویانه در فضای باز علاقه دارند.",
+      "images": [
+        "bag-5",
+        "bag-5_1",
+        "bag-5_2",
+        "bag-5_3"
+      ],
+      "price": 4800000,
+      "discount": 12,
+      "tags": [
+        ""
+      ],
+      "category": "bags",
+      "brand": "متفرقه",
+      "colors": [
+        {
+          "title": "سبز",
+          "clr_code": "bg-green-500",
+          "group": "green"
+        },
+        {
+          "title": "طوسی",
+          "clr_code": "bg-stone-400",
+          "group": "gray"
+        }
+      ],
+      "sizes": [
+        "45 لیتری"
+      ],
+      "rating": 4.4,
+      "created_at": "2025-12-10T11:20:00Z",
+      "is_orginal": true,
+      "stock": 1,
+      "free_shipping": false
+    },
+    {
+      "id": "2141",
+      "title": "کوله پشتی ورزشی مدل ضدآب کد U-A NEW 2025",
+      "description": " از جنس برزنت ضد آب تولید شده که استحکام و مقاومت بالایی در برابر سایش دارد. این کوله پشتی دارای یک محفظه اصلی بزرگ با زیپ دوطرفه است که دسترسی راحتی را در اختیار شما قرار می دهد و حتی می توان از این محفظه برای قرار دادن توپ ها و وسایل ورزشی دیگر استفاده کرد.",
+      "images": [
+        "bag-6",
+        "bag-6_1",
+        "bag-6_2",
+        "bag-6_3",
+        "bag-6_4"
+      ],
+      "price": 998000,
+      "discount": 5,
+      "tags": [
+        ""
+      ],
+      "category": "bags",
+      "brand": "متفرقه",
+      "colors": [
+        {
+          "title": "مشکی",
+          "clr_code": "bg-black",
+          "group": "black"
+        },
+        {
+          "title": "سبز فسفری",
+          "clr_code": "bg-lime-400",
+          "group": "green"
+        },
+        {
+          "title": "آبی روشن",
+          "clr_code": "bg-sky-400",
+          "group": "blue"
+        },
+        {
+          "title": "قرمز",
+          "clr_code": "bg-red-500",
+          "group": "red"
+        }
+      ],
+      "sizes": [
+        "40 لیتری"
+      ],
+      "rating": 4.6,
+      "created_at": "2025-12-05T11:20:00Z",
+      "is_orginal": false,
+      "stock": 10,
+      "free_shipping": true
+    },
+    {
+      "id": "2142",
+      "title": "دستکش بدنسازی مدل مچ بند دار",
+      "description": " دارای انعطاف پذیری بسیار بالا (رویه ی دستکش) دارای مچ بند و محافظت از مچ دست و کف دست دارای کف دست و بند انگشت‌های تقویت شده دارای چسب محکم و بادوام (لیزری) عامل افزایش گردش هوا (پارچه روی دست) محافظت از انگشتان و مچ در برابر آسیب های احتمالی.",
+      "images": [
+        "gloves-5",
+        "gloves-5_1",
+        "gloves-5_2",
+        "gloves-5_3"
+      ],
+      "price": 1800000,
+      "discount": 28,
+      "tags": [
+        ""
+      ],
+      "category": "gloves",
+      "brand": "متفرقه",
+      "colors": [
+        {
+          "title": "قرمز",
+          "clr_code": "bg-red-500",
+          "group": "red"
+        },
+        {
+          "title": "نارنجی",
+          "clr_code": "bg-orange-400",
+          "group": "yellow"
+        },
+        {
+          "title": "طوسی",
+          "clr_code": "bg-stone-400",
+          "group": "gray"
+        },
+        {
+          "title": "سرمه ای",
+          "clr_code": "bg-blue-950",
+          "group": "blue"
+        }
+      ],
+      "sizes": [
+        "فری سایز"
+      ],
+      "rating": 4.6,
+      "created_at": "2024-12-05T11:20:00Z",
+      "is_orginal": false,
+      "stock": 10,
+      "free_shipping": true
+    },
+    {
+      "id": "2143",
+      "title": "دستکش اسکی مردانه مت",
+      "description": "  ضد آب و دارای ویژگی‌های خاصی است که آن را برای استفاده در شرایط سرد و برفی ایده‌آل می‌کند. جنس و طراحی دستکش از ترکیب مواد مقاوم در برابر سرما و آب ساخته شده است. ترکیب چرم و پارچه با کیفیت باعث می‌شود که دستکش هم از نظر استحکام و هم راحتی عملکرد خوبی داشته باشد.",
+      "images": [
+        "gloves-6",
+        "gloves-6_1",
+        "gloves-6_2",
+        "gloves-6_3"
+      ],
+      "price": 9500000,
+      "discount": false,
+      "tags": [
+        ""
+      ],
+      "category": "gloves",
+      "brand": "مت",
+      "colors": [
+        {
+          "title": "قرمز",
+          "clr_code": "bg-red-500",
+          "group": "red"
+        },
+        {
+          "title": "نارنجی",
+          "clr_code": "bg-orange-500",
+          "group": "yellow"
+        }
+      ],
+      "sizes": [
+        "M"
+      ],
+      "rating": 3.9,
+      "created_at": "2025-10-05T11:20:00Z",
+      "is_orginal": true,
+      "stock": 2,
+      "free_shipping": false
+    }
+  ],
+  "reviews": [],
+  "tickets": [],
+  "mega_menu": [
+    {
+      "id": "1",
+      "title": "مـردانه",
+      "link": "/products?category=men",
+      "children": [
+        {
+          "id": 11,
+          "title": "لباس های جدید",
+          "children": [
+            {
+              "id": 111,
+              "title": "هودی"
+            },
+            {
+              "id": 112,
+              "title": "شلوار اسلش"
+            },
+            {
+              "id": 113,
+              "title": "کت تک"
+            },
+            {
+              "id": 114,
+              "title": "کت و شلوار"
+            },
+            {
+              "id": 115,
+              "title": "ژاکت"
+            }
+          ],
+          "subItems": [
+            {
+              "id": 116,
+              "title": "شال و کلاه مردانه"
+            },
+            {
+              "id": 117,
+              "title": "کلاه بدون لبه"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "title": "انواع پیراهن",
+          "children": [
+            {
+              "id": 121,
+              "title": "آستین کوتاه"
+            },
+            {
+              "id": 122,
+              "title": "آستین بلند"
+            },
+            {
+              "id": 123,
+              "title": "یقه برگردان"
+            },
+            {
+              "id": 124,
+              "title": "کشمیر"
+            },
+            {
+              "id": 125,
+              "title": "جین"
+            },
+            {
+              "id": 126,
+              "title": "پولوشرت"
+            }
+          ],
+          "subItems": [
+            {
+              "id": 127,
+              "title": "عینک آفتابی"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "title": "انواع کفش",
+          "children": [
+            {
+              "id": 131,
+              "title": "مجلسی"
+            },
+            {
+              "id": 132,
+              "title": "ورزشی"
+            },
+            {
+              "id": 133,
+              "title": "بوت و نیم بوت"
+            },
+            {
+              "id": 134,
+              "title": "کوهنوردی"
+            }
+          ],
+          "subItems": [
+            {
+              "id": 135,
+              "title": "لباس ورزشی"
+            },
+            {
+              "id": 136,
+              "title": "پوشاک"
+            },
+            {
+              "id": 137,
+              "title": "لوازم ورزشی"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "title": "انواع شلوار",
+          "children": [
+            {
+              "id": 141,
+              "title": "کتان"
+            },
+            {
+              "id": 142,
+              "title": "اسلش یا جاگر"
+            },
+            {
+              "id": 143,
+              "title": "اسلیم فیت"
+            }
+          ],
+          "subItems": [
+            {
+              "id": 144,
+              "title": "انواع اکسسوری"
+            },
+            {
+              "id": 145,
+              "title": "گردن بند"
+            },
+            {
+              "id": 146,
+              "title": "کمر بند"
+            },
+            {
+              "id": 147,
+              "title": "دست بند"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "title": "لباس راحتی",
+          "children": [
+            {
+              "id": 151,
+              "title": "تاپ و تی شرت"
+            },
+            {
+              "id": 152,
+              "title": "شلوارک"
+            },
+            {
+              "id": 153,
+              "title": "سرهمی مردانه"
+            },
+            {
+              "id": 154,
+              "title": "پیژامه"
+            }
+          ],
+          "subItems": [
+            {
+              "id": 155,
+              "title": "لباس زیر"
+            },
+            {
+              "id": 156,
+              "title": "زیرپوش"
+            },
+            {
+              "id": 157,
+              "title": "شورت مردانه"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "زنـانه",
+      "link": "/products?category=women",
+      "children": [
+        {
+          "id": 21,
+          "title": "لباس های جدید",
+          "children": [
+            {
+              "id": 211,
+              "title": "شومیز"
+            },
+            {
+              "id": 212,
+              "title": "پولوشرت"
+            },
+            {
+              "id": 213,
+              "title": "دامن شلواری"
+            },
+            {
+              "id": 214,
+              "title": "مانتو"
+            },
+            {
+              "id": 215,
+              "title": "کت دامن"
+            }
+          ],
+          "subItems": [
+            {
+              "id": 216,
+              "title": "جوراب"
+            },
+            {
+              "id": 217,
+              "title": "جوراب شلواری"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "title": "لباس رسمی",
+          "children": [
+            {
+              "id": 221,
+              "title": "کت و شلوار"
+            },
+            {
+              "id": 222,
+              "title": "مجلسی"
+            },
+            {
+              "id": 223,
+              "title": "پانچو"
+            },
+            {
+              "id": 224,
+              "title": "تونیک"
+            },
+            {
+              "id": 225,
+              "title": "شومیز های اداری"
+            }
+          ],
+          "subItems": [
+            {
+              "id": 226,
+              "title": "لباس ساحلی"
+            },
+            {
+              "id": 227,
+              "title": "مایو"
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "title": "لباس فصلی ",
+          "children": [
+            {
+              "id": 231,
+              "title": "پالتو"
+            },
+            {
+              "id": 232,
+              "title": "کاپشن"
+            },
+            {
+              "id": 233,
+              "title": "بارانی"
+            },
+            {
+              "id": 234,
+              "title": "سویشرت و هودی"
+            }
+          ],
+          "subItems": [
+            {
+              "id": 235,
+              "title": "لباس بالا تنه"
+            },
+            {
+              "id": 236,
+              "title": "تاپ"
+            },
+            {
+              "id": 237,
+              "title": "نیم تنه"
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "title": "پوشش های خاص",
+          "children": [
+            {
+              "id": 241,
+              "title": "لباس بارداری"
+            },
+            {
+              "id": 242,
+              "title": "لباس زیر"
+            },
+            {
+              "id": 243,
+              "title": "لباس ورزشی"
+            }
+          ],
+          "subItems": [
+            {
+              "id": 244,
+              "title": "انواع شلوار"
+            },
+            {
+              "id": 245,
+              "title": "جین"
+            },
+            {
+              "id": 246,
+              "title": "پارچه ای"
+            },
+            {
+              "id": 247,
+              "title": "شلوارک"
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "title": "اکسسوری",
+          "children": [
+            {
+              "id": 251,
+              "title": "شال"
+            },
+            {
+              "id": 252,
+              "title": "روسری"
+            },
+            {
+              "id": 253,
+              "title": "انگشتر"
+            },
+            {
+              "id": 254,
+              "title": "گردن بند"
+            }
+          ],
+          "subItems": [
+            {
+              "id": 255,
+              "title": "لباس راحتی"
+            },
+            {
+              "id": 256,
+              "title": "پیراهن خواب"
+            },
+            {
+              "id": 257,
+              "title": "تیشرت و شلوار خانگی"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "بچـگانه",
+      "link": "/products?category=kids",
+      "children": [
+        {
+          "id": 31,
+          "title": "لباس نوزاد",
+          "children": [
+            {
+              "id": 311,
+              "title": "شلوار"
+            },
+            {
+              "id": 312,
+              "title": "بلوز و شومیز"
+            },
+            {
+              "id": 313,
+              "title": "پلیور و ژاکت"
+            },
+            {
+              "id": 314,
+              "title": "پیراهن و سارافون"
+            }
+          ],
+          "subItems": [
+            {
+              "id": 315,
+              "title": "لباس زیر نوزاد"
+            },
+            {
+              "id": 316,
+              "title": "بادی"
+            },
+            {
+              "id": 317,
+              "title": "شورت"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "title": "لباس راحتی نوزاد",
+          "children": [
+            {
+              "id": 321,
+              "title": "تاپ و تی شرت"
+            },
+            {
+              "id": 322,
+              "title": "شلوار و شلوارک"
+            },
+            {
+              "id": 323,
+              "title": "سرهمی"
+            }
+          ],
+          "subItems": [
+            {
+              "id": 324,
+              "title": "کفش نوزاد"
+            },
+            {
+              "id": 325,
+              "title": "بوت"
+            },
+            {
+              "id": 326,
+              "title": "صندل"
+            },
+            {
+              "id": 327,
+              "title": "دمپایی"
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "title": "لباس زمستانی ",
+          "children": [
+            {
+              "id": 331,
+              "title": "کاپشن"
+            },
+            {
+              "id": 332,
+              "title": "بارانی"
+            },
+            {
+              "id": 333,
+              "title": "پالتو و کت"
+            },
+            {
+              "id": 334,
+              "title": "هودی"
+            }
+          ],
+          "subItems": [
+            {
+              "id": 335,
+              "title": "اکسسوری نوزاد"
+            },
+            {
+              "id": 336,
+              "title": "دستکش"
+            },
+            {
+              "id": 337,
+              "title": "سرپوش و پیش بند"
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "title": "لباس دخترانه ",
+          "children": [
+            {
+              "id": 341,
+              "title": "پیراهن"
+            },
+            {
+              "id": 342,
+              "title": "ست دخترانه"
+            },
+            {
+              "id": 343,
+              "title": "شومیز"
+            },
+            {
+              "id": 344,
+              "title": "بلوز"
+            }
+          ],
+          "subItems": [
+            {
+              "id": 345,
+              "title": "لباس راحتی"
+            },
+            {
+              "id": 346,
+              "title": "دامن"
+            },
+            {
+              "id": 347,
+              "title": "شلوار و شلوارک"
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "title": "لباس پسرانه",
+          "children": [
+            {
+              "id": 351,
+              "title": "ژاکت و بلوز"
+            },
+            {
+              "id": 352,
+              "title": "پولوشرت"
+            },
+            {
+              "id": 353,
+              "title": "سویشرت و هودی"
+            }
+          ],
+          "subItems": [
+            {
+              "id": 354,
+              "title": "اکسسوری پسرانه"
+            },
+            {
+              "id": 355,
+              "title": "کوله پشتی"
+            },
+            {
+              "id": 356,
+              "title": "کیف و کمربند"
+            },
+            {
+              "id": 357,
+              "title": "کراوات و پاپیون"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "فروشـگاه",
+      "link": "/products"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
