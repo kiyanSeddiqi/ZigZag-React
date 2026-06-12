@@ -62,7 +62,7 @@ function Hero() {
                               ? `/products?category=${item.category}`
                               : "/products"
                           }
-                          className="bg-primary-dark text-white lg:w-30 sm:w-22 2xs:w-20 w-16 md:py-2 md:px-4 py-1.5 px-3 md:text-base 2xs:text-sm text-xs rounded-sm flex items-center justify-center hover:bg-primary-hover duration-200 font-semibold"
+                          className="bg-primary-dark text-white lg:w-30 sm:w-22 2xs:w-20 w-16 md:py-2 md:px-4 py-1.5 px-3 md:text-base 2xs:text-sm text-xs rounded-sm flex items-center justify-center hover:bg-primary-hover dark:hover:bg-body-bg duration-200 font-semibold"
                         >
                           {item.imgKey !== "b_5" ? "خـریـد" : "مشـاهـده"}
                         </Link>
