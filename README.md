@@ -1,4 +1,4 @@
-# ZigZag (React js)
+# ZigZag (React js) [Live Demo](https://zigzag-shop.netlify.app/)
 
 > A modern clothing e-commerce website built with React and Vite.
 
@@ -36,7 +36,7 @@
 - Best Practices: 100
 - SEO: 92
 
-![Lighthouse Report](./docs/lighthouse.jpg)
+![Lighthouse Report](./docs/lighthouse.JPG)
 
 ### Backend
 
