@@ -36,7 +36,7 @@
 - Best Practices: 100
 - SEO: 92
 
-  ![Lighthouse Report](./docs/lighthouse.jpg)
+  ![Lighthouse Report](./docs/lighthouse.JPG)
 
 ### Backend
 
