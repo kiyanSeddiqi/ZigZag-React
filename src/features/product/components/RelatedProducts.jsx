@@ -26,8 +26,8 @@ function RelatedProducts({ relatedData }) {
             slidesPerView={4}
             speed={1200}
             navigation={{
-              nextEl: ".category-next",
-              prevEl: ".category-prev",
+              nextEl: ".related-products .swiper-btn-next",
+              prevEl: ".related-products .swiper-btn-prev",
             }}
             autoplay={{
               delay: 4000,

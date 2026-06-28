@@ -25,8 +25,8 @@ function ProductGallery({ imgData, title }) {
               onlyInViewport: true,
             }}
             navigation={{
-              nextEl: ".category-next",
-              prevEl: ".category-prev",
+              nextEl: ".swiper-btn-next",
+              prevEl: ".swiper-btn-prev",
             }}
             zoom={true}
             thumbs={{ swiper: thumbsSwiper }}
@@ -50,10 +50,10 @@ function ProductGallery({ imgData, title }) {
               </SwiperSlide>
             ))}
           </Swiper>
-          <button className="category-next absolute 2xs:left-3 -left-8 top-1/2 -translate-y-1/2 z-10 rounded-full bg-white/60 p-1">
+          <button className="swiper-btn-next absolute 2xs:left-3 -left-8 top-1/2 -translate-y-1/2 z-10 rounded-full bg-white/60 p-1">
             <IoChevronBack className="lg:size-5 text-primary-dark cursor-pointer" />
           </button>
-          <button className=" category-prev absolute 2xs:right-3 -right-8 top-1/2 -translate-y-1/2 z-10 rounded-full bg-white/60 p-1">
+          <button className="swiper-btn-prev absolute 2xs:right-3 -right-8 top-1/2 -translate-y-1/2 z-10 rounded-full bg-white/60 p-1">
             <IoChevronForward className="lg:size-5 text-primary-dark cursor-pointer" />
           </button>
         </div>

@@ -17,7 +17,7 @@ function BottomNav({ onShowSearch, onShowAuth, onShowCart, cartLength }) {
   const { currentUser, logOut } = useContext(AuthContext);
   return (
     <>
-      <div className="bottom-nav lg:hidden fixed bottom-0 w-full bg-primary-dark text-white h-14 sm:h-16 z-50 px-4 md:px-8 flex items-center 2xs:justify-evenly justify-between child:focus:outline-none child:rounded">
+      <div className="bottom-nav lg:hidden fixed bottom-0 w-full bg-primary-dark text-white h-14 sm:h-16 z-50 px-4 md:px-8 flex items-center 2xs:justify-evenly justify-between child:focus:outline-none child:rounded shadow-2xl">
         <button onClick={() => setShowMobileNav(true)}>
           <IoMenu className="sm:size-7 size-6" />
         </button>

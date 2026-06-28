@@ -8,13 +8,13 @@ function SwiperNavBtn({ className }) {
       >
         <button
           aria-label="دکمه اسلاید بعدی"
-          className="size-6 2xs:size-8 md:size-9 2xl:size-10 flex items-center justify-center dark:bg-primary hover:bg-primary-dark hover:text-white text-primary-dark duration-300 rounded-full shadow-[0px_0px_5px_#5a5a5a] cursor-pointer category-next"
+          className="size-6 2xs:size-8 md:size-9 2xl:size-10 flex items-center justify-center dark:bg-primary hover:bg-primary-dark hover:text-white text-primary-dark duration-300 rounded-full shadow-[0px_0px_5px_#5a5a5a] cursor-pointer swiper-btn-next"
         >
           <IoChevronForward className=" md:size-5 lg:size-6 2xl:size-7 " />
         </button>
         <button
           aria-label="دکمه اسلاید قبلی"
-          className=" size-6 2xs:size-8 md:size-9 2xl:size-10 flex items-center justify-center dark:bg-primary hover:bg-primary-dark hover:text-white text-primary-dark duration-300 rounded-full shadow-[0px_0px_5px_#5a5a5a] cursor-pointer  category-prev"
+          className=" size-6 2xs:size-8 md:size-9 2xl:size-10 flex items-center justify-center dark:bg-primary hover:bg-primary-dark hover:text-white text-primary-dark duration-300 rounded-full shadow-[0px_0px_5px_#5a5a5a] cursor-pointer  swiper-btn-prev"
         >
           <IoChevronBack className=" md:size-5 lg:size-6 2xl:size-7" />
         </button>

@@ -30,8 +30,8 @@ function NewProducts({ productsData }) {
             slidesPerView={4}
             speed={1200}
             navigation={{
-              nextEl: ".category-next",
-              prevEl: ".category-prev",
+              nextEl: ".new-products .swiper-btn-next",
+              prevEl: ".new-products .swiper-btn-prev",
             }}
             autoplay={{
               delay: 4000,

@@ -32,8 +32,8 @@ function CategorySlider() {
           speed={700}
           loop={true}
           navigation={{
-            nextEl: ".category-next",
-            prevEl: ".category-prev",
+            nextEl: ".category-slider .swiper-btn-next",
+            prevEl: ".category-slider .swiper-btn-prev",
           }}
           autoplay={{
             delay: 2500,
