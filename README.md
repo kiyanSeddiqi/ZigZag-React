@@ -16,8 +16,8 @@
 
 ### Features:
 
-- Context API
-- Shopping Cart
+- State management with Context API
+- Dynamic Shopping Cart
 - Product Filtering
 - Responsive Design
 - Form Validation
